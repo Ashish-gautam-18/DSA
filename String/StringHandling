@@ -1,1 +1,176 @@
 
+
+public class StringHandling {
+
+	public static void main(String[] args) {
+		 
+//		String s= new String ("Ashish");
+//		s.concat("Technology");
+//
+//		System.out.println(s);
+//	
+//	}								// Ashish
+//	}
+
+
+
+//		
+//		
+//		StringBuffer sb= new StringBuffer ("Ashish");
+//		sb.append("Technology");
+//
+//		System.out.println(sb);
+//	
+//	}								// AshishTechnology
+//	}
+
+
+
+
+                // cheak objects and reffrence;
+
+                   //  ******** And  ********
+
+
+
+//
+//
+//String s1=("Ashish");
+//String s2=("Ashish");
+//
+//
+//System.out.println(s1==s2);				// True
+//													
+//System.out.println(s1.equals(s2));       // true	
+//
+//}
+//}
+
+
+						//  ******** And  ********
+
+
+
+
+
+
+//          										((((kaisi hai teri khudgarji)))
+//
+//
+//String s1= new String("Ashish");
+//s1.concat("Tech");
+//
+//String s2= s1.concat("Hyderabaad");
+//s2.concat("nagpur");
+//
+//System.out.println(s2);				// 	AshishHyderabaad
+//									
+//                                    
+//System.out.println(s1);                //     Ashish
+//}
+//}
+
+
+
+
+
+
+															
+                                                 //false
+                                                 //false
+                                                 //true 
+                                                 //true 
+                                                 //false
+                                                 //false 
+												
+														
+
+
+
+								    //   false
+
+
+
+
+
+
+
+
+//     ************ cunstructor **********
+		
+		
+		
+		
+		
+
+//String s= new String(char [] ch);	
+
+
+//char [] ch = {'s','a','t','y','a'};
+//     String  s= new String (ch);
+//     System.out.println(s);
+//	}												//sathya
+//	
+//}
+
+		
+		
+		
+		
+
+ 
+       //    *********** Method in Sting **********
+
+		
+		
+		
+		
+		
+		
+     
+
+
+                  //public char charAt ( int index)*****
+//
+//		
+//		String s= "ashish";
+//		System.out.print(s.charAt(4));
+//	}
+//}														//  S
+
+
+
+
+//                    public String concat ( string s)*****
+//
+//          String s= "ashish";
+//          s=s.concat("tech");
+//          System.out.println(s);      // ashishtech
+//          }
+//          }
+
+
+
+
+//                                // public boolean equals (string)*****
+//
+//String s= "ashish";
+//
+//System.out.println(s.equals("ashish"));
+//System.out.println(s.equals("Ashu"));
+//}                                              // true
+//}										    	 // false		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
