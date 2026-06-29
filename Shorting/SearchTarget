@@ -14,9 +14,8 @@ public class SearchTarget {
         	   System.out.println("target element is="+i);
            
         	   }
-           
-           else 
-           
-
-	
-
+            else 
+            System.out.println("target element is not present ");        	   
+           }
+	}
+           }
