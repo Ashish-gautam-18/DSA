@@ -166,6 +166,37 @@ public class StringHandling {
 
 
 
+				//public boolean equalsIgnorcase (string s)	******
+//
+//		
+//
+//String s= "ASHISH";
+//
+//System.out.println(s.equals("ashish"));
+//System.out.println(s.equalsIgnoreCase("ashish"));
+//}                                                // false
+//}												 // true
+//
+//
+//
+
+
+//     ***********public boolean isEmpty()******
+
+
+
+
+//String s1= "";
+//
+//System.out.println(s1.isEmpty());
+//String s2= "sathya";
+//System.out.println(s2.isEmpty());
+}                                             // true
+}											   // false
+
+
+
+
 
 
 
